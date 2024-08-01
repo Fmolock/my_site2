@@ -5,3 +5,8 @@ body {
 nav > a.selected {
     font-size: 1.5rem;
 }
+
+.suit {
+    height: 45rem;
+    width: 35rem;
+}
